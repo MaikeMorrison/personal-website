@@ -22,8 +22,8 @@ bio: My research interests include evolutionary genetics and epidemiological dyn
 
 education:
   courses:
-  - course: BS in Mathematics, Dean's Scholars Honors Program
-    institution: The University of Texas at Austin
+  - course: BS in Mathematics
+    institution: The University of Texas at Austin, Dean's Scholars Honors Program
     year: 2020
     
 interests:
@@ -50,9 +50,9 @@ social:
 #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
