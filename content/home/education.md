@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 22  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Professor"
-  company = ""
+  title = "PhD in Ecology & Evolutionary Biology"
+  company = "Stanford University Department of Biology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Stanford, California"
+  date_start = "2020-09-14"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "BS in Mathematics"
+  company = "The University of Texas at Austin"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Austin, TX"
+  date_start = "2016-08-20"
+  date_end = "2020-05-20"
+  description = """
+  """
+  Dean's Scholars Honors Program
 
+Distinctions in Service and Leadership, and Research
 +++
