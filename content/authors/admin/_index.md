@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include evolutionary genetics and epidemiological dynamics.
 
-education:
-  courses:
-  - course: BS in Mathematics
-    institution: The University of Texas at Austin, Dean's Scholars Honors Program
-    year: 2020
+#education:
+#  courses:
+#  - course: BS in Mathematics
+#    institution: The University of Texas at Austin, Dean's Scholars Honors Program
+#    year: 2020
     
-interests:
-- Evolutionary Genetics
-- Infectious Disease
-- Statistics
+#interests:
+#- Evolutionary Genetics
+#- Infectious Disease
+#- Statistics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +66,6 @@ user_groups:
 
 I am an incoming PhD student in Ecology and Evolutionary Biology at Stanford University, where I will be working with [Erin Mordecai](https://www.mordecailab.com/) and [Noah Rosenberg](https://rosenberglab.stanford.edu/). 
 
-My undergraduate research advisors in the University of Texas Department of Integrative Biology were [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html). I also worked with [John Witte](http://wittelab.ucsf.edu/pages/people) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Department of Statistics.
+I am interested in research questions at the intersection of evolutionary genetics, statistics, and infectious disease dynamics.
+
+My undergraduate research was advised by [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html) in the UT Austin Department of Integrative Biology. I also conducted summer research with [John Witte](http://wittelab.ucsf.edu/pages/people) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Statistics Department.
