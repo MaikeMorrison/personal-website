@@ -66,4 +66,4 @@ user_groups:
 
 I am an incoming PhD student in Ecology and Evolutionary Biology at Stanford University, where I will be working with [Erin Mordecai](https://www.mordecailab.com/) and [Noah Rosenberg](https://rosenberglab.stanford.edu/). 
 
-My undergraduate research advisors at the University of Texas were [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html). I also worked with [John Witte](http://wittelab.ucsf.edu/pages/people) at the University of California, San Francisco, and [Ephraim Hanks](https://sites.psu.edu/hanks/) at Penn State.
+My undergraduate research advisors in the University of Texas Department of Integrative Biology were [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html). I also worked with [John Witte](http://wittelab.ucsf.edu/pages/people) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Department of Statistics.
