@@ -29,15 +29,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "BS in Mathematics"
-  company = "The University of Texas at Austin"
+  company = "The University of Texas at Austin, Dean's Scholars Honors Program"
   company_url = ""
   location = "Austin, TX"
   date_start = "2016-08-20"
   date_end = "2020-05-20"
   description = """
-  * Dean's Scholars Honors Program
-  * Distinctions in Service and Leadership, and Research
-
   """
   
 +++
