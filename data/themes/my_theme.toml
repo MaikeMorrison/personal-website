@@ -8,7 +8,7 @@ light = true
 primary = "#3993BC"
 
 # Menu
-menu_primary = "#6C6C6C"
+menu_primary = "rgb(247, 247, 247)" # header color
 menu_text = "#34495e"
 menu_text_active = "#3993BC"
 menu_title = "#2b2b2b"
