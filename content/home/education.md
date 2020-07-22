@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 22  # Order that this section will appear.
 
 title = "Education"
 subtitle = ""
@@ -35,10 +35,8 @@ date_format = "Jan 2006"
   date_start = "2016-08-20"
   date_end = "2020-05-20"
   description = """
-  
-  Dean's Scholars Honors Program
-
-  Distinctions in Service and Leadership, and Research
+  * Dean's Scholars Honors Program
+  * Distinctions in Service and Leadership, and Research
 
   """
   
