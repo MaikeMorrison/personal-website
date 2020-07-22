@@ -35,8 +35,11 @@ date_format = "Jan 2006"
   date_start = "2016-08-20"
   date_end = "2020-05-20"
   description = """
-  """
+  
   Dean's Scholars Honors Program
 
-Distinctions in Service and Leadership, and Research
+  Distinctions in Service and Leadership, and Research
+
+  """
+  
 +++
