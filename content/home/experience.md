@@ -39,7 +39,10 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = "2020-03-10"
   description = """
-  With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions."""
+  With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions.
+
+  This work is now out in *PLOS Medicine*! You can find the open-access paper [here!]{https://doi.org/10.1371/journal.pmed.1003049}
+  """
 
 
 [[experience]]
@@ -60,7 +63,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2020-05-01"
   description = """
-  I wrote a senior mathematics thesis with the supervision of Dr. Stephen Walker.
+  I wrote an honors mathematics thesis with the supervision of Dr. Stephen Walker as part of my degree through the Dean's Scholars Honors Program.
   """
 
 [[experience]]
@@ -71,9 +74,11 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
-  As part of the UCSF Summer Research Training Program, I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
+  As part of the [UCSF Summer Research Training Program]{https://graduate.ucsf.edu/srtp} and the [Amgen Scholars Program]{https://amgenscholars.com/}, I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
+
+  This work is part of a manuscript, "The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2" which is currently a pre-print on medRxiv. [Link here!]{https://doi.org/10.1101/2020.05.01.20088054}
   """
 
 [[experience]]
@@ -84,7 +89,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
-  As part of The Mathematical Biosciences Institute NSF REU Program, I worked with Dr. Ephraim Hanks to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
+  As part of The Mathematical Biosciences Institute NSF REU Program, I worked with Dr. Ephraim Hanks and Emily Strong to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
   
   We Found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
   """
