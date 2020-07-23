@@ -26,9 +26,10 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = "2020-08-01"
   description = """
+  **How many ecotypes make up the world's most abundant photosynthetic organism?**
   * Supervised by Dr. Mark Kirkpatrick in the UT Austin Department of Integrative Biology.
-  * Evaluated performance of Bayesian phylogenetics and Phylogeography (BPP) when applied to prokaryotic genomic data. BPP is a Bayesian Markov chain Monte Carlo program for analyzing eukaryotic DNA sequence alignments under the multispecies coalescent model.
-  * Identified independently evolving lineages within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
+  * Evaluated performance of Bayesian phylogenetics and Phylogeography (BPP) when applied to prokaryotic genomic data. (BPP is a Bayesian Markov chain Monte Carlo program for analyzing eukaryotic DNA sequence alignments under the multispecies coalescent model.)
+  * Identified independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
   """
 
 [[experience]]
@@ -39,8 +40,11 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = "2020-08-01"
   description = """
+  **What are the drivers of rising vaccination exemptions in Texas schools?**
   * Supervised by Dr. Lauren Ancel Meyers in the UT Austin Department of Integrative Biology
   * Analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates, which have more than doubled in the past six years. Fit an array of models to identify sociodemographic predictors of these exemptions.
+
+  **How many isolation beds are needed to protect people experiencing homelessness in Austin from COVID-19?**
   * Modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections; discussed findings with city leaders."""
 
 [[experience]]
@@ -52,7 +56,7 @@ date_format = "Jan 2006"
   date_end = "2020-05-01"
   description = """
   * Supervised by Dr. Stephen Walker in the UT Austin Departments of Mathematics, and Statistics and Data Sciences.
-  * Wrote thesis titled: “Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread.”
+  * Wrote thesis titled: **“Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread.”**
   """
 
 [[experience]]
@@ -63,6 +67,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
+  **What is the genetic basis of how strongly our immune system responds to infectious diseases?**
   * Supervised by Dr. John Witte in the University of California San Francisco Department of Biostatistics and Epidemiology. As part of the UCSF Summer Research Training Program, I was selected for funding by the Amgen Foundation.
   * Conducted genome-wide association studies to identify single-nucleotide polymorphisms (SNPs) significantly associated with immune response strength to 22 distinct antigens.
   """
@@ -74,6 +79,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
+  **How does terrain patchiness influence spatial infectious disease spread?**
   * Supervised by Dr. Ephraim Hanks in the Penn State University Department of Statistics. Participant in the MBI NSF Research Experience for Undergraduates program, which was hosted by The Ohio State University in Columbus, OH.
   * Explored dynamics of disease spread over patchy terrain through extensive simulation study.
   * Found that terrain heterogeneity (i.e., resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
