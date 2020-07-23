@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "UT Austin Department of Integrative Biology"
   date_start = "2017-12-01"
-  date_end = "2020-08-01"
+  date_end = ""
   description = """
   Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
 
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
-  As part of the [UCSF Summer Research Training Program](https://graduate.ucsf.edu/srtp) and the [Amgen Scholars Program](https://amgenscholars.com/), I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
+  As part of the [UCSF Summer Research Training Program](https://graduate.ucsf.edu/srtp) and the [Amgen Scholars Program](https://amgenscholars.com/), I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sara Rashkin to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
 
@@ -91,7 +91,7 @@ date_format = "Jan 2006"
   description = """
   As part of The Mathematical Biosciences Institute NSF REU Program, I worked with Dr. Ephraim Hanks and Emily Strong to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
   
-  We Found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
+  We found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
   """
 
 +++
