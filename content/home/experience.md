@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "How many ecotypes make up the world's most abundant photosynthetic organism?"
-  company = "UT Austin Department of Integrative Biology."
+  company = ""
   company_url = ""
-  location = "Austin, TX"
+  location = "UT Austin Department of Integrative Biology - Austin, TX"
   date_start = "2017-12-01"
   date_end = "2020-08-01"
   description = """
