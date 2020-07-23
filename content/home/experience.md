@@ -26,9 +26,7 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = "2020-08-01"
   description = """
-  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*. 
-
-  This work was advised by Mark Kirkpatrick in the UT Austin Department of Integrative Biology.
+  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
   """
 
 [[experience]]
