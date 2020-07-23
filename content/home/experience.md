@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Austin, TX"
   date_start = "2017-12-01"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
   * Evaluated performance of Bayesian phylogenetics and Phylogeography (BPP) when applied to prokaryotic genomic data. BPP is a Bayesian Markov chain Monte Carlo program for analyzing eukaryotic DNA sequence alignments under the multispecies coalescent model.
   * Identified independently evolving lineages within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Austin, TX"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
   * Analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates, which have more than doubled in the past six years. Fit an array of models to identify sociodemographic predictors of these exemptions.
   * Modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections; discussed findings with city leaders."""
