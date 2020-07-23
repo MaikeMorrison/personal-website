@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = ""
   description = """
-  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
+  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
 
   I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
   """
@@ -89,9 +89,11 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
-  As part of The Mathematical Biosciences Institute NSF REU Program, I worked with Dr. Ephraim Hanks and Emily Strong to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
+  As part of [The Mathematical Biosciences Institute NSF REU Program](https://mbi.osu.edu/education/summer-reu-program), I worked with Dr. Ephraim Hanks and Emily Strong to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
   
   We found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
+
+  You can view a recording of our final presentation [here!](https://archive.mbi.ohio-state.edu/video?view=speakers&id=18129&item=Maike%20Morrison)
   """
 
 +++
