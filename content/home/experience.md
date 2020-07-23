@@ -26,72 +26,67 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = "2020-08-01"
   description = """
-  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
+  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
+
+  I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
   """
 
 [[experience]]
-  title = "Mathematical Epidemiology Undergraduate Research Assistant"
-  company = ""
+  title = "What are the drivers of rising vaccination exemptions in Texas schools?"
+  company = "UT Austin Department of Integrative Biology"
   company_url = ""
   location = "Austin, TX"
   date_start = "2017-08-01"
-  date_end = "2020-08-01"
+  date_end = "2020-03-10"
   description = """
-  **What are the drivers of rising vaccination exemptions in Texas schools?**
-  * Supervised by Dr. Lauren Ancel Meyers in the UT Austin Department of Integrative Biology
-  * Analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates, which have more than doubled in the past six years. Fit an array of models to identify sociodemographic predictors of these exemptions.
+  With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions."""
 
-  **How many isolation beds are needed to protect people experiencing homelessness in Austin from COVID-19?**
-  * Modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections; discussed findings with city leaders."""
 
 [[experience]]
-  title = "Senior Honors Mathematics Thesis"
-  company = ""
+  title = "How many isolation beds are needed to protect people experiencing homelessness in Austin from COVID-19?"
+  company = "UT Austin Department of Integrative Biology"
+  company_url = ""
+  location = "Austin, TX"
+  date_start = "2017-04-01"
+  date_end = ""
+  description = """
+  Under Dr. Lauren Ancel Meyers, I modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections. This work was done in collaboration with public health leaders from the City of Austin."""
+
+[[experience]]
+  title = "Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread."
+  company = "UT Austin Mathematics Department"
   company_url = ""
   location = "Austin, TX"
   date_start = "2019-08-01"
   date_end = "2020-05-01"
   description = """
-  * Supervised by Dr. Stephen Walker in the UT Austin Departments of Mathematics, and Statistics and Data Sciences.
-  * Wrote thesis titled: **“Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread.”**
+  I wrote a senior mathematics thesis with the supervision of Dr. Stephen Walker.
   """
 
 [[experience]]
-  title = "UC San Francisco Amgen Scholars Program"
-  company = ""
+  title = "What is the genetic basis of how strongly our immune system responds to infectious diseases?"
+  company = "University of California, San Francisco Department of Biostatistics & Epidemiology"
   company_url = ""
   location = "San Francisco, CA"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
-  **What is the genetic basis of how strongly our immune system responds to infectious diseases?**
-  * Supervised by Dr. John Witte in the University of California San Francisco Department of Biostatistics and Epidemiology. As part of the UCSF Summer Research Training Program, I was selected for funding by the Amgen Foundation.
-  * Conducted genome-wide association studies to identify single-nucleotide polymorphisms (SNPs) significantly associated with immune response strength to 22 distinct antigens.
+  As part of the UCSF Summer Research Training Program, I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
+
+  We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
   """
+
 [[experience]]
-  title = "The Mathematical Biosciences Institute NSF REU"
-  company = ""
+  title = "How does terrain patchiness influence spatial infectious disease spread?"
+  company = "Penn State University Department of Statistics"
   company_url = ""
   location = "State College, PA"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
-  **How does terrain patchiness influence spatial infectious disease spread?**
-  * Supervised by Dr. Ephraim Hanks in the Penn State University Department of Statistics. Participant in the MBI NSF Research Experience for Undergraduates program, which was hosted by The Ohio State University in Columbus, OH.
-  * Explored dynamics of disease spread over patchy terrain through extensive simulation study.
-  * Found that terrain heterogeneity (i.e., resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
+  As part of The Mathematical Biosciences Institute NSF REU Program, I worked with Dr. Ephraim Hanks to explore the dynamics of disease spread over patchy terrain through an extensive simulation study.
+  
+  We Found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
   """
-[[experience]]
-  title = "UT Austin Freshman Research Initiative"
-  company = ""
-  company_url = ""
-  location = "Austin, TX"
-  date_start = "2016-08-01"
-  date_end = "2017-08-01"
-  description = """
-  * Participated in a hands-on wet-lab training course and summer research position; member of the Functional Genomics research stream.
-  * Used CRISPR/Cas9 to study histone proteins in Saccharomyces cerevisiae.
-  """
-
 
 +++
