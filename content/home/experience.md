@@ -20,13 +20,13 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "How many ecotypes make up the world's most abundant photosynthetic organism?"
-  company = "This work was advised by Mark Kirkpatrick in the UT Austin Department of Integrative Biology."
+  company = "UT Austin Department of Integrative Biology."
   company_url = ""
   location = "Austin, TX"
   date_start = "2017-12-01"
   date_end = "2020-08-01"
   description = """
-  I evaluated the performance of Bayesian phylogenetics and Phylogeography (Bayesian Markov chain Monte Carlo program for analyzing eukaryotic DNA sequence alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*. 
+  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*. 
 
   This work was advised by Mark Kirkpatrick in the UT Austin Department of Integrative Biology.
   """
