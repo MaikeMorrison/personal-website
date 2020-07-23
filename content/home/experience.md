@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions.
 
-  This work is now out in *PLOS Medicine*! You can find the open-access paper [here!]{https://doi.org/10.1371/journal.pmed.1003049}
+  This work is now out in *PLOS Medicine*! You can find the open-access paper [here!](https://doi.org/10.1371/journal.pmed.1003049)
   """
 
 
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = """
-  Under Dr. Lauren Ancel Meyers, I modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections. This work was done in collaboration with public health leaders from the City of Austin."""
+  Dr. Lauren Ancel Meyers, Dr. Spencer Fox, Tanvi Ingle, and I are modeling demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections. This work was done in collaboration with public health leaders from the City of Austin."""
 
 [[experience]]
   title = "Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread."
@@ -74,11 +74,11 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-07-01"
   description = """
-  As part of the [UCSF Summer Research Training Program]{https://graduate.ucsf.edu/srtp} and the [Amgen Scholars Program]{https://amgenscholars.com/}, I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
+  As part of the [UCSF Summer Research Training Program](https://graduate.ucsf.edu/srtp) and the [Amgen Scholars Program](https://amgenscholars.com/), I worked with Dr. John Witte, Dr. Linda Kachuri, and Dr. Sarah Rashink to conduct genome-wide association studies of immune response strength to 22 distinct antigens.
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
 
-  This work is part of a manuscript, "The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2" which is currently a pre-print on medRxiv. [Link here!]{https://doi.org/10.1101/2020.05.01.20088054}
+  This work is part of a manuscript, "The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2" which is currently a pre-print on medRxiv. [Link here!](https://doi.org/10.1101/2020.05.01.20088054)
   """
 
 [[experience]]
