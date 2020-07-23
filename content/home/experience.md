@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Mathematical Epidemiology Undergraduate Research Assista"
+  title = "Mathematical Epidemiology Undergraduate Research Assistant"
   company = "Supervised by Dr. Lauren Ancel Meyers in the UT Austin Department of Integrative Biology"
   company_url = ""
   location = "Austin, TX"
