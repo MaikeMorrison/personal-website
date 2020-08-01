@@ -13,6 +13,11 @@
   url = "#experience"
   weight = 30
 
+[[main]]
+  name = "Media Coverage"
+  url = "#media_coverage"
+  weight = 60
+
 #[[main]]
  # name = "Posts"
   #url = "#posts"
