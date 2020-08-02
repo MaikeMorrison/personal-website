@@ -20,7 +20,7 @@ With the intention of helping younger students in the Dean's Scholars Honors Pro
 
 * A suggested timeline
 * An overview of the application and interview/visit process
-* A summary of the application 
+* A summary of the application materials
 
 We aimed to share what we wish we knew before we began the application process; we hope it serves you well!
 
