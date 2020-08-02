@@ -29,6 +29,8 @@ date_format = "Jan 2006"
   Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
 
   I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
+
+  I presented this work at the 2019 Evolution Meeting; you can access my poster [here!](files/poster-Evolution_2019.pdf)
   """
 
 [[experience]]
@@ -93,7 +95,7 @@ date_format = "Jan 2006"
   
   We found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
 
-  You can view a recording of our final presentation [here!](https://archive.mbi.ohio-state.edu/video?view=speakers&id=18129&item=Maike%20Morrison)
+  You can view our poster [here](files/poster-MBI_2018.pdf) and a recording of our final presentation [here!](https://archive.mbi.ohio-state.edu/video?view=speakers&id=18129&item=Maike%20Morrison)
   """
 
 +++
