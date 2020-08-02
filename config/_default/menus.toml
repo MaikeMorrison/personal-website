@@ -18,6 +18,11 @@
   url = "#media_coverage"
   weight = 60
 
+[[main]]
+  name = "Resources"
+  url = "#resources"
+  weight = 80
+
 #[[main]]
  # name = "Posts"
   #url = "#posts"
