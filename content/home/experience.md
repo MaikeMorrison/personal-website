@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   description = """
   I wrote an honors mathematics thesis with the supervision of Dr. Stephen Walker as part of my degree through the Dean's Scholars Honors Program.
 
-  **You can view a copy of my thesis [here!](files/undergrad_thesis.pdf)** (Unpublished content in Ch. 2 and since-published content in Ch. 3 have been removed from this copy.)
+  **You can view an abridged copy of my thesis [here!](files/undergrad_thesis.pdf)**
   """
 
 [[experience]]
