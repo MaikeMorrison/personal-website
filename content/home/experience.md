@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = ""
   description = """
-  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
+  Under Dr. Mark Kirkpatrick, I am evaluating the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
 
-  I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
+  I have used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
 
   **You can access my poster from the 2019 Evolution Meeting [here!](files/poster-Evolution_2019.pdf)**
   """
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions.
 
-  **This work is now out in *PLOS Medicine*! You can find the open-access paper [here.](https://doi.org/10.1371/journal.pmed.1003049)**
+  **This work is now published in *PLOS Medicine*! You can find the open-access paper [here.](https://doi.org/10.1371/journal.pmed.1003049)**
   """
 
 
