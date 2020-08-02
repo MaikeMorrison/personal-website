@@ -22,12 +22,12 @@ With the intention of helping younger students in the Dean's Scholars Honors Pro
 * An overview of the application and interview/visit process
 * A summary of the application 
 
-We wrote this document with the aim of sharing what we wish we knew before we began the application process. We hope it serves you well!
+We aimed to share what we wish we knew before we began the application process; we hope it serves you well!
 
 ## Faith & Science Resources
 
-Throughout much of my time as an undergraduate, I was unaware of the many organizations seeking to harmonize faith and science, and to provide community for scientists who are also people of faith. Here are a few of the organizations and resources I have especially appreciated:
+I spent much of my undergraduate career unaware of organizations seeking both to harmonize faith and science and to provide community for scientists who are also people of faith. Here are a few of the organizations and resources I wish I had learned of earlier:
 
-* [Biologos](https://biologos.org/): Founded by Dr. Francis Collins, the former leader of the Human Genome Project  and the current NIH director, Biologos is an organization that invites the church and the world to see the harmony between science and biblical faith by presenting an evolutionary understanding of God’s creation. I also recommend Dr. Collins' book [*The Language of God*](https://en.wikipedia.org/wiki/The_Language_of_God) and the Biologos [podcast](https://biologos.org/podcast/language-of-god) by the same name.
+* [Biologos](https://biologos.org/): Founded by Dr. Francis Collins, the former leader of the Human Genome Project and  current NIH director, Biologos invites the church and the world to see the harmony between science and biblical faith by presenting an evolutionary understanding of God’s creation. I also recommend Dr. Collins' book [*The Language of God*](https://en.wikipedia.org/wiki/The_Language_of_God) and the Biologos [podcast](https://biologos.org/podcast/language-of-god) by the same name.
 * [The American Scientific Affiliation](https://network.asa3.org/default.aspx): The ASA is an international network of Christians in the sciences. They publish a journal on science and faith, host conferences, and have chapters all over the world.
 * [The Emerging Scholars Network](https://blog.emergingscholars.org/about/): The ESN is a national network within [InterVarsity’s Graduate & Faculty Ministries](https://gfm.intervarsity.org/) which supports those on the academic pathway as they work out how their academic vocation serves God and others.
