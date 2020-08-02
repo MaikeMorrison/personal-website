@@ -15,10 +15,10 @@ subtitle = ""
 +++
 
 
-**March 13, 2020:** Live television interview: Discussed Texas vaccination exemptions with Amanda Salinas on FOX 7's *Good Day Austin*, an Austin-area morning show.
+**Live television interview:** Discussed Texas vaccination exemptions with Amanda Salinas on FOX 7's *Good Day Austin*, an Austin-area morning show. March 13, 2020.
 
-[**March 12, 2020:**](https://www.kxan.com/top-stories/which-texans-are-less-likely-to-vaccinate-their-kids/)  "Which Texans are less likely to vaccinate their kids?"" By Wes Rapaport, *KXAN* (Austin's NBC affiliate).
+[**"Which Texans are less likely to vaccinate their kids?"**](https://www.kxan.com/top-stories/which-texans-are-less-likely-to-vaccinate-their-kids/) By Wes Rapaport, *KXAN* (Austin's NBC affiliate). March 12, 2020.
 
-[**March 10, 2020:**](https://www.vice.com/en_us/article/dyg5mm/anti-vax-research-wealthy-white-people-in-texas) "Rich White Texans Are Running With Anti-Vax Misinformation." By  Julia Ries, *VICE*.
+[**"Rich White Texans Are Running With Anti-Vax Misinformation."**](https://www.vice.com/en_us/article/dyg5mm/anti-vax-research-wealthy-white-people-in-texas) By  Julia Ries, *VICE*. March 10, 2020.
 
-[**March 10, 2020:**](https://www.newsweek.com/white-college-educated-wealthier-parents-less-likely-vaccinate-their-children-texas-study-1491188) "White, College-Educated, Wealthier Parents Less Likely to Vaccinate their Children, Texas Study Reveals." By  Kashmira Gander, *Newsweek*.
+[**"White, College-Educated, Wealthier Parents Less Likely to Vaccinate their Children, Texas Study Reveals."**](https://www.newsweek.com/white-college-educated-wealthier-parents-less-likely-vaccinate-their-children-texas-study-1491188)  By  Kashmira Gander, *Newsweek*. March 10, 2020.
