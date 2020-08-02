@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   I used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
 
-  I presented this work at the 2019 Evolution Meeting; you can access my poster [here!](files/poster-Evolution_2019.pdf)
+  **You can access my poster from the 2019 Evolution Meeting [here!](files/poster-Evolution_2019.pdf)**
   """
 
 [[experience]]
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   With the guidance Dr. Lauren Ancel Meyers and Dr. Lauren Castro, I analyzed the Texas counties and school districts most at risk of an outbreak due to high conscientious vaccination exemption rates and fit an array of models to identify sociodemographic predictors of these exemptions.
 
-  This work is now out in *PLOS Medicine*! You can find the open-access paper [here!](https://doi.org/10.1371/journal.pmed.1003049)
+  **This work is now out in *PLOS Medicine*! You can find the open-access paper [here.](https://doi.org/10.1371/journal.pmed.1003049)**
   """
 
 
@@ -80,7 +80,7 @@ date_format = "Jan 2006"
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
 
-  This work is part of a manuscript, "The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2" which is currently a pre-print on medRxiv. [Link here!](https://doi.org/10.1101/2020.05.01.20088054)
+  **You can view the medRxiv pre-print containing this work [here](https://doi.org/10.1101/2020.05.01.20088054) and my poster from the SRTP Capstone Conference [here!](files/poster-UCSF_2019.pdf)**
   """
 
 [[experience]]
@@ -95,7 +95,7 @@ date_format = "Jan 2006"
   
   We found that terrain heterogeneity (i.e. resource selection) can cause population dispersal to be heavy tailed, creating accelerating epidemic waves.
 
-  You can view our poster [here](files/poster-MBI_2018.pdf) and a recording of our final presentation [here!](https://archive.mbi.ohio-state.edu/video?view=speakers&id=18129&item=Maike%20Morrison)
+  **You can view our poster [here](files/poster-MBI_2018.pdf) and a recording of our final presentation [here!](https://archive.mbi.ohio-state.edu/video?view=speakers&id=18129&item=Maike%20Morrison)**
   """
 
 +++
