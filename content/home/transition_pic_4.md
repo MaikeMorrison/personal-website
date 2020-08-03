@@ -49,6 +49,3 @@ subtitle = ""
  # CSS class.
  #css_class = ""
 +++
-
-
-## Thanks for stopping by!
