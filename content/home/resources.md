@@ -16,7 +16,7 @@ subtitle = ""
 
 ## Graduate School Application Guide
 
-With the intention of helping younger students in the Dean's Scholars Honors Program who were hoping to apply to graduate school after finishing their undergraduate degrees, my friend [Griffin Glenn](http://griffindglenn.github.io/) and I wrote a [**guide to graduate school applications!**](files/resource-grad_app_guide.pdf) It contains:
+Intending to help younger students in the Dean's Scholars Honors Program who were hoping to apply to graduate school after finishing their undergraduate degrees, my friend [Griffin Glenn](http://griffindglenn.github.io/) and I wrote a [**guide to graduate school applications!**](files/resource-grad_app_guide.pdf) It contains:
 
 * A timeline beginning in the first year of undergrad
 * An overview of the application and interview/visit process
