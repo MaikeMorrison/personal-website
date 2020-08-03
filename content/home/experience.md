@@ -95,7 +95,7 @@ date_format = "Jan 2006"
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
 
-  **You can view the medRxiv pre-print containing this work [here](https://doi.org/10.1101/2020.05.01.20088054) and my poster from the SRTP Capstone Conference [here!](files/poster-UCSF_2019.pdf)**
+  **You can view the medRxiv pre-print containing this work [here](https://doi.org/10.1101/2020.05.01.20088054) and my poster from the SRTP final conference [here!](files/poster-UCSF_2019.pdf)**
   """
 
 [[experience]]
