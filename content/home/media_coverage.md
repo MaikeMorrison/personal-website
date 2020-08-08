@@ -13,8 +13,6 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-
-
 ## Research Coverage:
 **Live television interview:** Discussed Texas vaccination exemptions with Amanda Salinas on FOX 7's *Good Day Austin*, an Austin-area morning show. March 13, 2020.
 
