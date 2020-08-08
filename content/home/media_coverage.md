@@ -25,9 +25,9 @@ subtitle = ""
 [**"White, College-Educated, Wealthier Parents Less Likely to Vaccinate their Children, Texas Study Reveals."**](https://www.newsweek.com/white-college-educated-wealthier-parents-less-likely-vaccinate-their-children-texas-study-1491188)  By  Kashmira Gander, *Newsweek*. March 10, 2020.
 
 ## Personal News: 
-[**2020 Stanford Graduate Fellowships in Science & Engineering Recipients:**](https://vpge.stanford.edu/fellowships-funding/current-vpge-fellows/all-2020#SGF) I was awarded a three-year, endowed fellowship to support my graduate studies at Stanford. Each year, approximately 100 such fellowships are awarded to outstanding, department-nominated PhD students from across engineering and the sciences.
+[**2020 Recipients of Stanford Graduate Fellowships in Science & Engineering:**](https://vpge.stanford.edu/fellowships-funding/current-vpge-fellows/all-2020#SGF) I was awarded a three-year, endowed fellowship to support my graduate studies at Stanford. Each year, approximately 100 such fellowships are awarded to outstanding, department-nominated PhD students from across engineering and the sciences.
 
-[**Meet the 30 Dean's Honored Graduates for this Year:**](https://cns.utexas.edu/news/meet-the-30-dean-s-honored-graduates-for-this-year) I was named a 2020 Dean's Honored Graduate, a distinction awarded to less than one percent of the UT College of Natural Sciences graduating class in recognotion of achievements in research, service, and leadership.
+[**Meet the 30 Dean's Honored Graduates for this Year:**](https://cns.utexas.edu/news/meet-the-30-dean-s-honored-graduates-for-this-year) I was named a 2020 Dean's Honored Graduate, a distinction awarded to less than one percent of the UT College of Natural Sciences graduating class in recognition of research, service, and leadership.
 
 [**UT Honors Five Undergraduates for Academic Excellence:**](https://provost.utexas.edu/news/2020-coop-mitchell-awards) I was one of five undergraduates awarded the UT University Co-op George H. Mitchell Award in recognition of my research on vaccination exemptions.
 
