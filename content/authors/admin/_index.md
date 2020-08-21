@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: Stanford University Department of Biology
-  url: ""
+  url: "https://biology.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include evolutionary genetics and epidemiological dynamics.
@@ -38,7 +38,7 @@ bio: My research interests include evolutionary genetics and epidemiological dyn
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maike.morrison@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:maikem@stanford.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MaikeMorrison
