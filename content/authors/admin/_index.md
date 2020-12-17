@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+# role: Graduate Student
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University Department of Biology
-  url: "https://biology.stanford.edu/"
+#organizations:
+# - name: Stanford University Department of Biology
+#  url: "https://biology.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include evolutionary genetics and epidemiological dynamics.
