@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student, Stanford University
+role: PhD Student, Stanford University
 
 # Organizations/Affiliations
 #organizations:
