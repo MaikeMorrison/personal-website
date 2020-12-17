@@ -12,8 +12,8 @@ superuser: true
 # Role/position
  role: PhD Student, Stanford University
 
-# Organizations/Affiliations
-#organizations:
+#Organizations/Affiliations
+# organizations:
 # - name: Stanford University Department of Biology
 #  url: "https://biology.stanford.edu/"
 
