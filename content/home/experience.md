@@ -32,6 +32,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "How can we quantify ancestry variability using the output of population structure inference software?"
+  company = ""
+  company_url = ""
+  location = "Stanford University Department of Biology"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  I am working with Dr. Noah Rosenberg to develop an $F_{ST}$-based tool for measuring ancestry variation in inference of population structure. More info to come!
+  """
+
+
+[[experience]]
   title = "How many ecotypes make up the world's most abundant photosynthetic organism?"
   company = ""
   company_url = ""
@@ -95,7 +107,7 @@ date_format = "Jan 2006"
 
   We identified many interesting and novel single-nucleotide polymorphisms that are implicated in immune response variability.
 
-  **This work is now published in *Genome Medicine*! You can find the open-access paper [here](https://doi.org/10.1186/s13073-020-00790-x)** and my poster [here!](files/poster-UCSF_2019.pdf)**
+  **This work is now published in *Genome Medicine*! You can find the open-access paper [here](https://doi.org/10.1186/s13073-020-00790-x) and my poster [here!](files/poster-UCSF_2019.pdf)**
   """
 
 [[experience]]
