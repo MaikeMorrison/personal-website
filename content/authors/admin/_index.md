@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Ecology and Evolutionary Biology at Stanford University working with [Erin Mordecai](https://www.mordecailab.com/) and [Noah Rosenberg](https://rosenberglab.stanford.edu/) with funding from a Stanford Graduate Fellowship. 
+I am a PhD student in Ecology and Evolutionary Biology at Stanford University working with [Noah Rosenberg](https://rosenberglab.stanford.edu/) with funding from a Stanford Graduate Fellowship and the National Science Foundation Graduate Research Fellowship Program. 
 
 I am interested in research questions involving **evolutionary genetics**, **statistics**, and **infectious disease dynamics**.
 
