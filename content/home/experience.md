@@ -78,9 +78,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = "UT Austin Department of Integrative Biology"
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2021-05-13"
   description = """
-  Dr. Lauren Ancel Meyers, Dr. Spencer Fox, Tanvi Ingle, and I are modeling demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections. This work was done in collaboration with public health leaders from the City of Austin."""
+  Dr. Lauren Ancel Meyers, Dr. Spencer Fox, Tanvi Ingle, and I modeled demand for COVID-19 isolation beds for the Austin homeless population based on epidemic projections. This work was done in collaboration with public health leaders from the City of Austin.
+
+  **This project is now published in *PLOS One*! See [this link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251153) for the open-access paper.**
+  """
 
 [[experience]]
   title = "Mathematical Statistics in Epidemiology: A Discussion of the Mathematical Concepts Employed in Regression Analyses and Studies of Disease Spread."
