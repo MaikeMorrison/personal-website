@@ -344,7 +344,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 <li><code>Q_plot</code> plots <span class="math inline">\(Q\)</span> matrices using <code>ggplot2</code>.</li>
 <li><code>Q_simulate</code> generates one or more <span class="math inline">\(Q\)</span> matrices by drawing vectors of membership coefficients (each representing an individual) from the Dirichlet distribution.</li>
 </ul>
-<p>This package accompanies a forthcoming paper by Maike Morrison, Nicolas Alcala, and Noah Rosenberg.</p>
+<p>This package accompanies a forthcoming paper by Maike Morrison, Nicolas Alcala, and Noah Rosenberg. <a href="https://doi.org/10.1101/2021.09.24.461741">You can access the preprint at this link.</a></p>
 <div id="in-this-document-we-walk-through-an-example-analysis-including-how-to" class="section level3">
 <h3>In this document, we walk through an example analysis, including how to:</h3>
 <ul>
@@ -488,7 +488,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 <p>Note that the default column names of these <span class="math inline">\(Q\)</span> matrices will likely be <code>V1</code>, <code>V2</code>, <code>V3</code>, … If you wish to give the columns more informative names, use the function <code>colnames</code>, listing on the right-hand side your desired column names (the example below uses the same names as <code>Q_simulate</code> for <span class="math inline">\(K=2\)</span> ancestral clusters):</p>
 <div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="kw">colnames</span>(Q_matrix_name) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;rep&quot;</span>, <span class="st">&quot;ind&quot;</span>, <span class="st">&quot;alpha&quot;</span>, <span class="st">&quot;Pop&quot;</span>, <span class="st">&quot;spacer&quot;</span>, <span class="st">&quot;q1&quot;</span>, <span class="st">&quot;q2&quot;</span>)</span></code></pre></div>
 <p>Repeat this process for each <span class="math inline">\(Q\)</span> matrix you wish to analyze.</p>
-<p>Alternatively, <span class="math inline">\(Q\)</span> matrices can be simulated using <code>Q_simulate</code>, which draws individuals from a Dirichlet probability distribution (for more details on the Dirichlet distribution, see the “Simulation examples” section of the forthcoming paper by Morrison, Alcala, and Rosenberg).</p>
+<p>Alternatively, <span class="math inline">\(Q\)</span> matrices can be simulated using <code>Q_simulate</code>, which draws individuals from a Dirichlet probability distribution (for more details on the Dirichlet distribution, see the “Simulation examples” section of <a href="https://doi.org/10.1101/2021.09.24.461741">the forthcoming paper by Morrison, Alcala, and Rosenberg</a>).</p>
 <p>The function <code>Q_simulate</code> has four parameters:</p>
 <ul>
 <li><p><code>alpha</code>, a number that controls the variability. Higher values of <span class="math inline">\(\alpha\)</span> result in lower variances across membership coefficients.</p></li>
@@ -779,7 +779,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 <span id="cb9-34"><a href="#cb9-34"></a><span class="co">#&gt; </span></span>
 <span id="cb9-35"><a href="#cb9-35"></a><span class="co">#&gt; $ratio</span></span>
 <span id="cb9-36"><a href="#cb9-36"></a><span class="co">#&gt; [1] 0.1213456</span></span></code></pre></div>
-<p>For each matrix, the function <code>Q_stat</code> returns <span class="math inline">\(F_{ST}\)</span>, <span class="math inline">\(F_{ST}^{max}\)</span>, and their ratio <span class="math inline">\((F_{ST}/F_{ST}^{max})\)</span>. In population genetics, the statistic <span class="math inline">\(F_{ST}\)</span> is conventionally used to quantify variability in allele frequencies among a collection of subpopulations. Here, we use this statistic to quantify the variability in membership coefficients among a collection of individuals. (See the methods section of the forthcoming paper for a more thorough discussion of this analogy.) Importantly, when the <span class="math inline">\(Q\)</span> matrix contains few individuals, or the mean membership of the most prevalent ancestral cluster is close to <span class="math inline">\(1/K\)</span> (the minimum value) or 1 (the maximum value), the maximum possible value of <span class="math inline">\(F_{ST}\)</span> <span class="math inline">\((F_{ST}^{max})\)</span> can be much less than 1. For this reason, we use the normalized statistic, <span class="math inline">\(F_{ST}/F_{ST}^{max}\)</span>, which always ranges between 0 and 1, and can thus be used to compare the variability of multiple <span class="math inline">\(Q\)</span> matrices.</p>
+<p>For each matrix, the function <code>Q_stat</code> returns <span class="math inline">\(F_{ST}\)</span>, <span class="math inline">\(F_{ST}^{max}\)</span>, and their ratio <span class="math inline">\((F_{ST}/F_{ST}^{max})\)</span>. In population genetics, the statistic <span class="math inline">\(F_{ST}\)</span> is conventionally used to quantify variability in allele frequencies among a collection of subpopulations. Here, we use this statistic to quantify the variability in membership coefficients among a collection of individuals. (See the methods section of <a href="https://doi.org/10.1101/2021.09.24.461741">the paper</a> for a more thorough discussion of this analogy.) Importantly, when the <span class="math inline">\(Q\)</span> matrix contains few individuals, or the mean membership of the most prevalent ancestral cluster is close to <span class="math inline">\(1/K\)</span> (the minimum value) or 1 (the maximum value), the maximum possible value of <span class="math inline">\(F_{ST}\)</span> <span class="math inline">\((F_{ST}^{max})\)</span> can be much less than 1. For this reason, we use the normalized statistic, <span class="math inline">\(F_{ST}/F_{ST}^{max}\)</span>, which always ranges between 0 and 1, and can thus be used to compare the variability of multiple <span class="math inline">\(Q\)</span> matrices.</p>
 <p>We observe from the results of <code>Q_stat</code> that matrices <code>A</code> and <code>B</code> have values of <span class="math inline">\(F_{ST}/F_{ST}^{max}\)</span> greater than 0.8, whereas matrices <code>C</code> and <code>D</code> have values close to 0.12. Is the similarity between <code>C</code> and <code>D</code> the result of random chance? Are the differences in variability between matrices <code>A</code> and <code>B</code> statistically significant?</p>
 <p>To answer these questions, we employ <a href="https://en.wikipedia.org/wiki/Bootstrapping_(statistics)">bootstrapping</a>.</p>
 </div>
@@ -790,7 +790,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 <ul>
 <li><p><code>matrices</code>, a named list of <span class="math inline">\(Q\)</span> matrices to analyze</p></li>
 <li><p><code>n_replicates</code>, the number of bootstrap replicates to generate for each <span class="math inline">\(Q\)</span> matrix</p></li>
-<li><p><code>K</code>, the number of ancestral clusters</p></li>
+<li><p><code>K</code>, the number of ancestral clusters. Can also be a vector if the number of ancestral clusters differs among the provided <span class="math inline">\(Q\)</span> matrices.</p></li>
 <li><p><code>seed</code>, an optional number which, if included, is used as the random seed to make the random results reproducible</p></li>
 </ul>
 <div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1"></a>bootstrap &lt;-<span class="st"> </span><span class="kw">Q_bootstrap</span>(<span class="dt">matrices =</span> <span class="kw">list</span>(<span class="dt">A =</span> A, <span class="dt">B =</span> B, <span class="dt">C =</span> C, <span class="dt">D =</span> D), </span>
@@ -844,7 +844,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 </div>
 <div id="final-thoughts" class="section level2">
 <h2>Final Thoughts</h2>
-<p>This concludes the introduction to the package FSTruct–we hope you found it helpful. For more information, see the forthcoming paper by Maike Morrison, Nicolas Alcala, and Noah Rosenberg. Or, in the R console, type <code>?FSTruct::Q_...</code> to read the documentation for particular functions (e.g. <code>?FSTruct::Q_bootstrap</code>).</p>
+<p>This concludes the introduction to the package FSTruct–we hope you found it helpful. For more information, see <a href="https://doi.org/10.1101/2021.09.24.461741">the forthcoming paper by Maike Morrison, Nicolas Alcala, and Noah Rosenberg</a>. Or, in the R console, type <code>?FSTruct::Q_...</code> to read the documentation for particular functions (e.g. <code>?FSTruct::Q_bootstrap</code>).</p>
 </div>
 
 
