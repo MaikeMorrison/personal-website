@@ -39,7 +39,9 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  I am working with Dr. Noah Rosenberg to develop an $F_{ST}$-based tool for measuring ancestry variation in inference of population structure. More info to come!
+  With Drs. Noah Rosenberg and Nicolas Alcala, I developed an $F_{ST}$-based tool, called FSTruct, for quantifying the variability of a population's estimated ancestry. 
+
+  **Check out our [R package on github](https://github.com/maikemorrison/fstruct) and [paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461741v1)! **
   """
 
 
@@ -49,9 +51,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "UT Austin Department of Integrative Biology"
   date_start = "2017-12-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
-  Under Dr. Mark Kirkpatrick, I am evaluating the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
+  Under Dr. Mark Kirkpatrick, I evaluated the performance of Bayesian Phylogenetics and Phylogeography (an MCMC program for analyzing DNA alignments under the multispecies coalescent model) when applied to prokaryotic genomic data. 
 
   I have used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
 
