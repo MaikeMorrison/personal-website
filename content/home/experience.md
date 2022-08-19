@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   With Drs. Noah Rosenberg and Nicolas Alcala, I developed an $F_{ST}$-based tool, called FSTruct, for quantifying the variability of a population's estimated ancestry. 
 
-  **Check out our [R package on GitHub](https://github.com/maikemorrison/fstruct) and [paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.24.461741v1)!**
+  **Check out our [R package on GitHub](https://github.com/maikemorrison/fstruct) and [paper in *Molecular Ecology Resources*](https://doi.org/10.1111/1755-0998.13647)!**
   """
 
 
