@@ -12,6 +12,9 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  
+  # % * [The American Scientific Affiliation](https://network.asa3.org/default.aspx): The ASA is an international network of Christians in the sciences. They publish a journal on science and faith, host conferences, and have chapters all over the world.
+# % * [The Emerging Scholars Network](https://blog.emergingscholars.org/about/): The ESN is a national network within [InterVarsity’s Graduate & Faculty Ministries](https://gfm.intervarsity.org/) which supports those on the academic pathway as they work out how their academic vocation serves God and others. In July 2020 I attended a virtual conference jointly hosted by ESN and ASA--it was a great opportunity to discuss science, faith, and career with other young scientists!
 +++
 
 ## Graduate School Application Guide
@@ -28,8 +31,7 @@ We aimed to share what we wish we knew before we began the application process; 
 
 ## Faith & Science Resources
 
-I spent much of my undergraduate career unaware of organizations seeking both to harmonize faith and science and to provide community for scientists who are also people of faith. Here are a few of the organizations and resources I wish I had learned of earlier:
+I spent much of my undergraduate career unaware of organizations seeking both to harmonize faith and science and to provide community for scientists who are also people of faith. Here are a couple of the organizations and resources I wish I had learned of earlier:
 
-* [BioLogos](https://biologos.org/): Founded by Dr. Francis Collins, the former leader of the Human Genome Project and  current NIH director, BioLogos invites the church and the world to see the harmony between science and biblical faith by presenting an evolutionary understanding of God’s creation. I also recommend Dr. Collins' book [*The Language of God*](https://en.wikipedia.org/wiki/The_Language_of_God) and the BioLogos [podcast](https://biologos.org/podcast/language-of-god) by the same name.
-* [The American Scientific Affiliation](https://network.asa3.org/default.aspx): The ASA is an international network of Christians in the sciences. They publish a journal on science and faith, host conferences, and have chapters all over the world.
-* [The Emerging Scholars Network](https://blog.emergingscholars.org/about/): The ESN is a national network within [InterVarsity’s Graduate & Faculty Ministries](https://gfm.intervarsity.org/) which supports those on the academic pathway as they work out how their academic vocation serves God and others. In July 2020 I attended a virtual conference jointly hosted by ESN and ASA--it was a great opportunity to discuss science, faith, and career with other young scientists!
+* [BioLogos](https://biologos.org/): Founded by Dr. Francis Collins, the former leader of the Human Genome Project and director of the National Institutes of Health, BioLogos invites the church and the world to see the harmony between science and Christian faith by presenting an evolutionary understanding of God’s creation. I also appreciated Dr. Collins' book [*The Language of God*](https://en.wikipedia.org/wiki/The_Language_of_God) and the BioLogos [podcast](https://biologos.org/podcast/language-of-god) by the same name.
+* [The AAAS Dialogue on Science, Ethics, and Religion (DoSER)](https://sciencereligiondialogue.org/): Organized by the American Association for the Advancement of Science, DoSER seeks to facilitate conversation between scientific and religious communities. 
