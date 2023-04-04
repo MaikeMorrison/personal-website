@@ -32,12 +32,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "How can we quantify compositional variability in other biological contexts?"
+  company = ""
+  company_url = ""
+  location = "Stanford University Department of Biology"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  With Drs. Noah Rosenberg, [Katherine Xue](https://katherinesxue.com/), and Nicolas Alcala, I am exploring compositional variability in other areas of biology, such as the human microbiome. More info to come! 
+  """
+
+[[experience]]
   title = "How can we quantify ancestry variability using the output of population structure inference software?"
   company = ""
   company_url = ""
   location = "Stanford University Department of Biology"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2022-05-21"
   description = """
   With Drs. Noah Rosenberg and Nicolas Alcala, I developed an $F_{ST}$-based tool, called FSTruct, for quantifying the variability of a population's estimated ancestry. 
 
