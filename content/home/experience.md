@@ -43,6 +43,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "How is Shannon diversity constrained by the abundance of the ith most abundant taxon in a community?"
+  company = ""
+  company_url = ""
+  location = "Stanford University Department of Biology"
+  date_start = "2021-07-01"
+  date_end = "2023-10-23"
+  description = """
+  Dr. Noah Rosenberg and I derived the upper and lower bounds on the popular biodiversity statistic Shannon entropy when the abundance of the ith most abundant community member is fixed. This project extends previous work which established these bounds conditional on only the first most abundant taxon.
+
+  **Check out our [paper in *Journal of Mathematical Biology*](https://doi.org/10.1007/s00285-023-01997-3)!**
+  """
+
+[[experience]]
   title = "How can we quantify ancestry variability using the output of population structure inference software?"
   company = ""
   company_url = ""
