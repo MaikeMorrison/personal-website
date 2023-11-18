@@ -66,6 +66,6 @@ user_groups:
 
 I am a PhD student in Ecology and Evolutionary Biology at Stanford University working with [Noah Rosenberg](https://rosenberglab.stanford.edu/) with funding from a Stanford Graduate Fellowship and the National Science Foundation Graduate Research Fellowship Program. 
 
-I am interested in research questions involving **evolutionary genetics**, **statistics**, and **infectious disease dynamics**.
+I build mathematical tools to answer biological questions, currently with a focus on population genetics, biodiversity, microbiomes, and cancer. 
 
 In May 2020, I graduated from the University of Texas at Austin with a BS in Mathematics through the [Dean's Scholars Honors Program](http://deansscholars.org/). My undergraduate research was advised by [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html) in the UT Austin Department of Integrative Biology. I also conducted summer research with [John Witte](http://wittelab.ucsf.edu/) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Statistics Department.
