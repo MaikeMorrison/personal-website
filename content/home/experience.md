@@ -98,7 +98,7 @@ date_format = "Jan 2006"
 
   I have used this tool to identify independently evolving lineages, or ecotypes, within a superabundant marine cyanobacteria responsible for 5% of global oxygen production, *Prochlorococcus marinus*.
 
-  **You can access my poster from the 2019 Evolution Meeting [here!](files/poster-Evolution_2019.pdf)**
+  **You can access my [poster from the 2019 Evolution Meeting here](files/poster-Evolution_2019.pdf) and our [preprint on bioRxiv here!](https://doi.org/10.1101/2022.11.29.517206)**
   """
 
 [[experience]]
