@@ -31,16 +31,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+  [[experience]]
+  title = "How do carcinogen exposure and cancer incidence shape mutational signature diversity in cancer tumors?"
+  company = ""
+  company_url = ""
+  location = "International Agency for Research on Cancer"
+  date_start = "2023-02-01"
+  date_end = ""
+  description = """
+  I spent much of 2023 as a visiting scientist with Dr. Nicolas Alcala in the [Rare Cancer Genomics Group](https://rarecancersgenomics.com/) at [IARC](https://www.iarc.who.int/). During my visit, we developed signature variability analysis, a framework to quantify the diversity of mutational signatures within tumors and the heterogeneity of signatures across tumors in a population. We found that carcinogen exposure increases the diversity of mutational signatures present in a tumor---even in cases when carcinogens were thought not to have genomic effects! 
+
+  **This work is now available as a [preprint on medRxiv!](https://doi.org/10.1101/2023.11.23.23298821)**
+  """
+ 
+
 [[experience]]
-  title = "How can we quantify compositional variability in other biological contexts?"
+  title = "How can we quantify compositional variability across many microbiome samples?"
   company = ""
   company_url = ""
   location = "Stanford University Department of Biology"
-  date_start = "2021-09-01"
+  date_start = "2022-09-01"
   date_end = ""
   description = """
-  With Drs. Noah Rosenberg, [Katherine Xue](https://katherinesxue.com/), and Nicolas Alcala, I am exploring compositional variability in other areas of biology, such as the human microbiome. More info to come! 
-  """
+  With Drs. Noah Rosenberg and [Katherine Xue](https://katherinesxue.com/), I developed FAVA, an Fst-based Assessment of Variability across vectors of relative Abundances. We used FAVA to quantify the temporal stability of microbiomes following an antibiotic perturbation and the heterogeneity of microbiomes across ruminant host species at different regions of the gastrointestinal tract. 
+
+  **Check out our [R package on GitHub](https://github.com/maikemorrison/FAVA) and [preprint on bioRxiv](https://doi.org/10.1101/2023.11.23.23298821)!**
+
+  """  
 
 [[experience]]
   title = "How is Shannon diversity constrained by the abundance of the ith most abundant taxon in a community?"
