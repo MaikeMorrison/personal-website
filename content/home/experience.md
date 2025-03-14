@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   description = """
   With Drs. Noah Rosenberg and [Katherine Xue](https://katherinesxue.com/), I developed FAVA, an Fst-based Assessment of Variability across vectors of relative Abundances. We used FAVA to quantify the temporal stability of microbiomes following an antibiotic perturbation and the heterogeneity of microbiomes across ruminant host species at different regions of the gastrointestinal tract. 
 
-  **Check out our [R package on CRAN](maikemorrison.github.io/FAVA/) and [paper in *PNAS*](https://doi.org/10.1073/pnas.2413211122)!**
+  **Check out our [R package on CRAN](https://maikemorrison.github.io/FAVA/) and [paper in *PNAS*](https://doi.org/10.1073/pnas.2413211122)!**
 
   """  
 
