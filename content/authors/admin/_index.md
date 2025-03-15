@@ -69,3 +69,5 @@ I am a PhD student in Ecology and Evolutionary Biology at Stanford University wo
 I build mathematical tools to answer biological questions, currently with a focus on population genetics, biodiversity, microbiomes, and cancer. 
 
 In May 2020, I graduated from the University of Texas at Austin with a BS in Mathematics through the [Dean's Scholars Honors Program](http://deansscholars.org/). My undergraduate research was advised by [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html) in the UT Austin Department of Integrative Biology. I also conducted summer research with [John Witte](http://wittelab.ucsf.edu/) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Statistics Department.
+
+In September 2025, I will begin as an [Omidyar Postdoctoral Fellow](https://santafe.edu/people/profile/maike-morrison) at the [Santa Fe Institute](https://santafe.edu/)!
