@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, Stanford University
+role: Omidyar Postdoctoral Fellow, Santa Fe Institute
 
 # Organizations/Affiliations
 #organizations:
-#- name: Stanford University Department of Biology
-#  url: "https://biology.stanford.edu/"
+#- name: Santa Fe Institute
+#  url: "http://santafe.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include evolutionary genetics and epidemiological dynamics.
+bio: Building mathematical tools to answer biological questions
 
 #education:
 #  courses:
@@ -38,10 +38,10 @@ bio: My research interests include evolutionary genetics and epidemiological dyn
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maikem@stanford.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:maike@santafe.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MaikeMorrison
+  link: https://maikemorrison.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=sSZOZagAAAAJ
@@ -64,10 +64,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Ecology and Evolutionary Biology at Stanford University working with [Noah Rosenberg](https://rosenberglab.stanford.edu/) with funding from a Stanford Graduate Fellowship and the National Science Foundation Graduate Research Fellowship Program. 
+I am currently an [Omidyar Postdoctoral Fellow](https://santafe.edu/people/profile/maike-morrison) at the [Santa Fe Institute](https://santafe.edu/) in Santa Fe, New Mexico. I build mathematical tools to answer biological questions, with a focus on population genetics, biodiversity, microbiomes, and cancer. 
 
-I build mathematical tools to answer biological questions, currently with a focus on population genetics, biodiversity, microbiomes, and cancer. 
+In August 2025, I graduated with a PhD in Ecology and Evolutionary Biology from Stanford University, where I worked with [Noah Rosenberg](https://rosenberglab.stanford.edu/). In May 2020, I graduated from the University of Texas at Austin with a BS in Mathematics through the [Dean's Scholars Honors Program](http://deansscholars.org/). My undergraduate research was advised by [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html).
 
-In May 2020, I graduated from the University of Texas at Austin with a BS in Mathematics through the [Dean's Scholars Honors Program](http://deansscholars.org/). My undergraduate research was advised by [Mark Kirkpatrick](https://kirkpatricklab.org/) and [Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/index.html) in the UT Austin Department of Integrative Biology. I also conducted summer research with [John Witte](http://wittelab.ucsf.edu/) in the University of California, San Francisco Department of Biostatistics and Epidemiology, and [Ephraim Hanks](https://sites.psu.edu/hanks/) in the Penn State University Statistics Department.
-
-In September 2025, I will begin as an [Omidyar Postdoctoral Fellow](https://santafe.edu/people/profile/maike-morrison) at the [Santa Fe Institute](https://santafe.edu/)!
