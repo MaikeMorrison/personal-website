@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Omidyar Postdoctoral Fellow, Santa Fe Institute
+role: Postdoctoral Researcher, Santa Fe Institute
 
 # Organizations/Affiliations
 #organizations:
