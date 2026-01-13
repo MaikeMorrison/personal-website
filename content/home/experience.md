@@ -31,6 +31,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+  [[experience]]
+  title = "Theory and Application of Biological Diversity Statistics"
+  company = ""
+  company_url = ""
+  location = "Stanford University"
+  date_start = "2020-09-04"
+  date_end = "2025-09-11"
+  description = """
+  I wrote a dissertation synthesizing my doctoral work on statistical methods for capturing biological variation in a range of systems.  
+
+  **You can access my dissertation [here!](https://purl.stanford.edu/ht803yt2196)**
+  """
+
+  
   [[experience]]
   title = "How do carcinogen exposure and cancer incidence shape mutational signature diversity in cancer tumors?"
   company = ""
