@@ -32,6 +32,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[experience]]
+  title = "How many recent genetic or genealogical ancestors are shared between individuals from different parts of the world?"
+  company = ""
+  company_url = ""
+  location = "Santa Fe Institute"
+  date_start = "2025-09-8"
+  date_end = ""
+  description = """
+  I am working with [Dr. Graham Coop](https://gcbias.org/) to explore patterns of human genetic relatedness around the world using ancestral recombination graphs. More updates to come!  
+  """
+  
+  [[experience]]
+  title = "How did the stability of foraminifera communities change over space and time during the Cenozoic?"
+  company = ""
+  company_url = ""
+  location = "Santa Fe Institute"
+  date_start = "2025-09-18"
+  date_end = ""
+  description = """
+  In collaboration with Drs. [Anshuman Swain](https://www.anshumanswain.com/) and Adam Woodhouse, I used FAVA to measure the temporal stability and spatial heterogeneity of planktonic foraminifera communities over the past 66 million years! We identified a latitudinal gradient of stability trajectories during this period---equatorial communities grew more stable over time, whereas polar communities, especially those in the Southern Ocean, destabilized over time. 
+
+  **You can access our preprint [here](https://doi.org/10.64898/2026.02.11.705334) and the accompanying code [here!](https://github.com/MaikeMorrison/foram-fava)**
+  """
+
+  
   [[experience]]
   title = "Theory and Application of Biological Diversity Statistics"
   company = ""
