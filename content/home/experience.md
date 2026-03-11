@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Santa Fe Institute"
-  date_start = "2025-09-8"
+  date_start = "2025-09-08"
   date_end = ""
   description = """
   I am working with [Dr. Graham Coop](https://gcbias.org/) to explore patterns of human genetic relatedness around the world using ancestral recombination graphs. More updates to come!  
